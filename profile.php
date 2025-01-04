@@ -113,7 +113,7 @@ $total_bookmarked = $select_bookmark->rowCount();
 
 <footer class="footer">
 
-   &copy; copyright @ 2024 by <span>Naman Jain</span> | all rights reserved!
+   &copy; copyright @ <?= date('Y'); ?> by <span>Naman Jain</span> | all rights reserved!
 
 </footer>
 
